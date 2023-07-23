@@ -1,2 +1,3 @@
 var a = "Sagar"
-console.log(a);
+var b = "Prashnt"
+console.log(a + b);
